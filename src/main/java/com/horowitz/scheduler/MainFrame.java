@@ -3,7 +3,6 @@ package com.horowitz.scheduler;
 import java.awt.BorderLayout;
 import java.awt.HeadlessException;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 
 import javax.swing.JFrame;
